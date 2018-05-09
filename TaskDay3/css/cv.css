@@ -1,0 +1,66 @@
+ul {
+    margin: 0;
+    padding: 0;
+}
+li {
+    list-style: none;
+}
+.cv {
+    width: 980px;
+    background-color: #f5f5f5;
+    border:  1px solid #f0f0f0;
+}
+header {
+    height: 150px;
+    width: 980px;
+    background-color: #4a4e59;
+    color: #fff;
+}
+header i {
+    font-style: normal;
+}
+.header-l {
+    margin-top: 10px;
+    margin-left: 70px;
+    float: left;
+}
+.header-r{
+    line-height: 36px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 18px;
+    margin-left: 200px;
+    float: left;
+}
+.cv-body {
+    margin: 16px;
+}
+.banner {
+    box-sizing: border-box;
+    width: 800px;
+    height: 40px;
+    background-color: #2192bc;
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 10px;
+    line-height: 36px;
+    padding-left: 20px;
+}
+.content {
+    width: 800px;
+    padding: 0 20px;
+    letter-spacing: 2px;
+    box-sizing: border-box;
+}
+.information .content {
+    margin: 10px 0;
+}
+.experience .content{
+    margin: 18px 0;
+}
+.information,
+.evaluate,
+.experience {
+    line-height: 30px;
+}
